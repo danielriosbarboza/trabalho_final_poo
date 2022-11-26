@@ -1,0 +1,20 @@
+Produto: Ponte Retificadora
+Modelo: 42f55i
+Fabricante: Baú da Eletrônica
+Garantia: 30 dias
+Componentes:
+	Componente 1: Placa
+	Componente 2: Conector
+	Componente 3: Diodo 1N4007
+	Componente 4: Diodo 1N4007
+	Componente 5: Diodo 1N4007
+	Componente 6: Diodo 1N4007
+	Componente 7: Capacitor 2000uF
+	Componente 8: LM317EMP
+	Componente 9: Potenciomentro 4.7Kohm
+	Componente 10: Resistor 22ohm
+	Componente 11: Capacitor 1000U
+	Componente 12: Conector
+
+	
+
