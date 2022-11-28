@@ -1,0 +1,21 @@
+Produto: Ferro de Solda
+Modelo: A52DBA
+Fabricante: Facilities
+Garantia: 100 dias
+Componentes:
+	Componente 1: Revestimento de ferro
+	Componente 2: Revesimento para o cabo
+	Componente 3: Resistor 4,7ohm
+	Componente 4: Capacitor 220nF
+	Componente 5: Capacitor 220nf
+	Componente 6: DIAC
+	Componente 7: TIC226
+	Componente 8: Resistor 220ohm 1W
+	Componente 9: Capacitor 100ohm
+	Componente 10: Led
+	Componente 11: Resistor 10kohm 1W
+	Componente 12: Resistencia Aquecimento Soldador
+	
+
+	
+
