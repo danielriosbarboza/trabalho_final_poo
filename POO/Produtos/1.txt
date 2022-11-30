@@ -1,0 +1,7 @@
+Produto = Teste
+Modelo = Testando
+Componentes:
+  Componente1: \vdrg
+  Componente2: \rg\rg
+  Componente3: gdfzghdf
+  Componente4: f\gfdgdz

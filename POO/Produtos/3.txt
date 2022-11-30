@@ -1,0 +1,31 @@
+Produto = Fonte Ajustavel
+Modelo = 45HT89
+Componentes:
+	Componente 1: Placa
+	Componente 2: Ponte Retificadora
+	Componente 3: Resistor 1kohm
+	Componente 4: T1P41
+	Componente 5: BC54B
+	Componente 6: Regulador 15V
+	Componente 7: Potenciometro 10kohm
+	Componente 8: Resistor 220ohm
+	Componente 9: Conector
+	Componente 10: Rele 
+	Componente 11: Resistor 0,47ohm
+	Componente 12: Capacitor 2200uF
+	Componente 13: Capacitor 1000uF
+	Componente 14: Trimpot 4,7ohm
+	Componente 15: Potenciometro 470ohm
+	Componente 16: BC54B
+	Componente 17: 100kohm
+	Componente 18: Amperimetro digital
+	Componente 19: Voltimetro digital
+	Componente 20: BC54B
+	Componente 21: Resistor 180kohm
+	Componente 22: Resistor 33ohm
+	Componente 23: Diodo 1N4D01
+	Componente 24: Conector
+	Componente 25: Caixa
+
+	
+
