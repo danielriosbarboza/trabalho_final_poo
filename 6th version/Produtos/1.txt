@@ -1,0 +1,6 @@
+Produto = Teste
+Modelo = gfagregareg
+Componentes:
+  Componente1: hthsrthsrth
+  Componente2: tshsrsht
+  Componente3: srthsrh
